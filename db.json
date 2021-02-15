@@ -1,16 +1,45 @@
 {
-  "posts":[
+  "lessons": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "Pegando o violão de maneira correta",
+      "link": "https://www.youtube.com/embed/-oT2SfILGCY",
+      "module_id": 1
+    },
+    {
+      "id": 2,
+      "title": "Afinando o violão",
+      "link": "https://www.youtube.com/embed/yB9AqmAI9g0",
+      "module_id": 1
+    },
+    {
+      "id": 3,
+      "title": "Conhecendo as notas do violão",
+      "link": "https://www.youtube.com/embed/Ruv4gyxcl-s",
+      "module_id": 1
+    },
+    {
+      "id": 4,
+      "title": "Tocando o primeiro acorde",
+      "link": "https://www.youtube.com/embed/79FfQdFf1mc",
+      "module_id": 1
+    },
+    {
+      "id": 5,
+      "title": "A primeira levada",
+      "link": "https://www.youtube.com/embed/8XHafoUWm98",
+      "module_id": 1
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "modules": [{ "id": 1, "number": 1, "post_id": 1 }],
+  "users": {
+    "id": 1,
+    "email": "gmilcharek@gmail.com",
+    "name": "Gustavo",
+    "points": 0
+  },
+  "watched_lessons": [
+    { "user_id": 1, "lesson_id": 1 },
+    { "user_id": 1, "lesson_id": 2 }
   ]
 }
