@@ -35,15 +35,30 @@
     {
       "id": 1,
       "number": 1,
-      "post_id": 1
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "number": 2,
+      "enabled": false
     }
   ],
-  "users": {
-    "id": 1,
-    "email": "gmilcharek@gmail.com",
-    "name": "Gustavo",
-    "points": 0
-  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Gustavo",
+      "email": "gmilcharek@gmail.com",
+      "password": "senha",
+      "points": 0
+    },
+    {
+      "id": 2,
+      "name": "Matheus",
+      "email": "matheus.s.ligabue@gmail.com",
+      "password": "senha",
+      "points": 0
+    }
+  ],
   "watched_lessons": [
     {
       "user_id": 1,
