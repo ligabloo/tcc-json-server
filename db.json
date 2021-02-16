@@ -2,30 +2,35 @@
   "lessons": [
     {
       "id": 1,
+      "number": 1,
       "title": "Pegando o violão de maneira correta",
       "video_id": "-oT2SfILGCY",
       "module_id": 1
     },
     {
       "id": 2,
+      "number": 2,
       "title": "Afinando o violão",
       "video_id": "yB9AqmAI9g0",
       "module_id": 1
     },
     {
       "id": 3,
+      "number": 3,
       "title": "Conhecendo as notas do violão",
       "video_id": "Ruv4gyxcl-s",
       "module_id": 1
     },
     {
       "id": 4,
+      "number": 4,
       "title": "Tocando o primeiro acorde",
       "video_id": "79FfQdFf1mc",
       "module_id": 1
     },
     {
-      "id": 5,
+      "id": 6,
+      "number": 5,
       "title": "A primeira levada",
       "video_id": "8XHafoUWm98",
       "module_id": 1
